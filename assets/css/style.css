@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     font-size: 16px;
-    line-height: 1.5em;
+    line-height: 1.0em;
     margin: 10px;
     padding: 0px;
 }
@@ -12,6 +12,9 @@ h1 {
     text-align: center;
 }
 
+ol {
+    line-height: 1.5em;
+}
 /* div {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -27,6 +30,7 @@ div {
     margin-left: auto;
     max-width: 700px;
     padding-top: 0.5em;
+    line-height: 1.0em;
 }
 
 span {
